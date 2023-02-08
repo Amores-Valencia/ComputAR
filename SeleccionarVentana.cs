@@ -1,4 +1,9 @@
-﻿using System.Collections;
+/*
+Autor: Amores-Valencia, A.
+Licencia: CC BY-NC-ND 4.0
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
