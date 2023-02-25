@@ -8,4 +8,6 @@ ComputAR is a mobile application based on Augmented Reality. It is developed wit
 
 This application allows you to learn about a multitude of computer machines and equipment, as well as the different components of a computer.
 
+The download of the application can be done through this link: [ComputAR](https://www.dropbox.com/s/utvj1if32yp3p71/ComputAR.apk?dl=0)
+
 ![ComputAR](images/interfaz.png)
